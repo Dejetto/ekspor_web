@@ -17,9 +17,9 @@ pnpm install
 # yarn
 yarn install
 ```
-```bash
-jan lupa download bootstrap nya, yg npm doang gw yg inget
-```
+
+## jan lupa download bootstrap nya, yg npm doang gw yg inget
+
 
 ## Development Server
 
