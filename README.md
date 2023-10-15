@@ -9,6 +9,7 @@ Make sure to install the dependencies:
 ```bash
 # npm
 npm install
+npm i bootstrap
 
 # pnpm
 pnpm install
@@ -16,6 +17,9 @@ pnpm install
 # yarn
 yarn install
 ```
+
+## jan lupa download bootstrap nya, yg npm doang gw yg inget
+
 
 ## Development Server
 
