@@ -1,8 +1,9 @@
 <template>
-    <div class="container text-center">
+    <div class="container text-center d-inline-flex">
         <div class="row">
             <div class="col-sm-5">
                 Level 1: .col-sm-3
+                <img src="/assets/coba_1.webp" class="rounded" alt="percobaan">
             </div>
             <div class="col-sm-3">
                 <div class="row">

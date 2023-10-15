@@ -8,10 +8,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <NuxtLink class="nav-link active btn btn-success warnaTulisanNav" aria-current="page" to="/">Home</NuxtLink>
+            <NuxtLink class="nav-link active btn btn-success" aria-current="page" to="/">Home</NuxtLink>
           </li>
-          <li class="nav-item dropdown btn btn-success">
-            <NuxtLink class="nav-link dropdown-toggle warnaTulisanNav" to="buah sayur" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <li class="nav-item dropdown dropdown-success">
+            <NuxtLink class="nav-link dropdown-toggle" to="buah sayur" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Our Product
             </NuxtLink>
             <ul class="dropdown-menu">
